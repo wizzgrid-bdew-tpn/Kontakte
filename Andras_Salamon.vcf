@@ -3,13 +3,13 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 26.6.1//EN
 N:Salamon;András;;;
 FN:András Salamon
-ORG:iContest GmbH / Wizzgrid ;
+ORG:iContest GmbH / Wizzgrid;
 TITLE:Project Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:andras.salamon@wizzgrid.com
 TEL;type=WORK;type=VOICE;type=pref:+49 (0) 160 96580520
 item1.ADR;type=WORK;type=pref:;;Opernplatz 14;Frankfurt;;60313;Germany
 item1.X-ABADR:de
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/https%3A//www.linkedin.com/in/salamonandras/
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/salamonandras/\;x-teamidentifier=57Y47U492U\;x-bundleidentifiers=com.linkedin.LinkedIn:http://www.linkedin.com/in/https%3A//www.linkedin.com/in/salamonandras/
 URL;type=WORK;type=pref:https://wizzgrid.com/de
 PHOTO;ENCODING=b:AAAAJGZ0eXBoZWljAAAAAG1pZjFNaVBybWlhZk1pSEJoZWljAAABhG1ldG
  EAAAAAAAAAIWhkbHIAAAAAAAAAAHBpY3QAAAAAAAAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAA
