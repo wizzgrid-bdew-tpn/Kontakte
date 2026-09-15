@@ -1,17 +1,18 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 26.6.1//EN
-N:Preuß;Andreas ;;Dr.;
-FN:Dr. Andreas  Preuß
+N:Preuß;Andreas;;Dr.;
+FN:Dr. Andreas Preuß
 ORG:iContest GmbH / Wizzgrid;
 TITLE:Geschäftsführer
 EMAIL;type=INTERNET;type=WORK;type=pref:andreas.preuss@wizzgrid.com
 TEL;type=WORK;type=VOICE;type=pref:+49 172 9766263
 item1.ADR;type=WORK;type=pref:;;Opernplatz 14;Frankfurt;;60313;Germany
 item1.X-ABADR:de
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/https%3A//www.linkedin.com/in/andreas-preu%C3%9F-4448065/
-item2.URL;type=pref:https://wizzgrid.com/de
-item2.X-ABLabel:_$!<HomePage>!$_
+item2.URL;type=pref:https://www.linkedin.com/in/andreas-preuß-4448065/
+item2.X-ABLabel:LinkedIn
+item3.URL:https://wizzgrid.com/de
+item3.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b:AAAAJGZ0eXBoZWljAAAAAG1pZjFNaVBybWlhZk1pSEJoZWljAAABhG1ldG
  EAAAAAAAAAIWhkbHIAAAAAAAAAAHBpY3QAAAAAAAAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAA
  AAAAAAABAAAADHVybCAAAAABAAAADnBpdG0AAAAAAAEAAAAjaWluZgAAAAAAAQAAABVpbmZlAg
