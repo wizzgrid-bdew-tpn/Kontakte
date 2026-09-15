@@ -9,9 +9,10 @@ EMAIL;type=INTERNET;type=WORK;type=pref:sebastian.jung@wizzgrid.com
 TEL;type=WORK;type=VOICE;type=pref:+49 (0) 157 52124441
 item1.ADR;type=WORK;type=pref:;;IContest GmbH\nOsternplatz 14;Frankfurt am Main;;60313;Germany
 item1.X-ABADR:de
-X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/sebastian-jung-9607b2222/\;x-teamidentifier=57Y47U492U\;x-bundleidentifiers=com.linkedin.LinkedIn:http://www.linkedin.com/in/https%3A//www.linkedin.com/in/sebastian-jung-9607b2222/
-item2.URL;type=pref:https://wizzgrid.com/de
-item2.X-ABLabel:_$!<HomePage>!$_
+item2.URL;type=pref:https://www.linkedin.com/in/sebastian-jung-9607b2222/
+item2.X-ABLabel:LinkedIn
+item3.URL:https://wizzgrid.com/de
+item3.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b:AAAAJGZ0eXBoZWljAAAAAG1pZjFNaVBybWlhZk1pSEJoZWljAAABhG1ldG
  EAAAAAAAAAIWhkbHIAAAAAAAAAAHBpY3QAAAAAAAAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAA
  AAAAAAABAAAADHVybCAAAAABAAAADnBpdG0AAAAAAAEAAAAjaWluZgAAAAAAAQAAABVpbmZlAg
